@@ -1,0 +1,87 @@
+!881;s
+J
+SAU0PATH+=%<JGRASP_PATHS>%;
+SCU0PATH+=%<JGRASP_PATHS>%;\012CYGWIN=nodosfilewarning
+S+U0PATH+=%<JGRASP_PATHS>%;\012CYGWIN=nodosfilewarning
+SJU0CLASSPATH=+%;%<EXTENSION_CLASSPATHS>\012CLASSPATH+=%<JGRASP_CLASSPATHS>%;\012CLASSPATH+=.%;\012PATH+=%<JAVA_BIN_DIR>%;\012PATH+=%<JGRASP_PATHS>%;\012Compile\012NOT_FOUND_MESSAGE==Make sure you have the full JDK, not just the JRE, installed.\\nThe JDK is available from http://www.oracle.com/technetwork/java/index.html.\012Run_Applet +Debug_Applet\012ADD_APPLETVIEWER_CLASSPATH==Y\012Document\012CLASSPATH=+%;%<TOOL_CLASSPATHS>\012
+SOU0PATH+=%<JGRASP_PATHS>%;\012CYGWIN=nodosfilewarning
+SPU0
+s#i0
+s#k0F:\\484\\faculty04\\drivers\\mysql-connector-java-5.1.22-bin.jar\000\012C:\\Users\\Dell 620\\Dropbox\\faculty04\\drivers\\mysql-connector-java-5.1.22-bin.jar\000
+s#j0F:\\484\\faculty04\\drivers\\mysql-connector-java-5.1.22-bin.jar
+s#l0
+!29;a
+a%\011documentation%s	b	c1	d0!1175;g
+%\011business_layer%sUsers.java
+%\011data_layer%sGrant.java
+%\011business_layer%sRecord.java
+%\011business_layer%sUser.java
+%\011business_layer%sPub.java
+%\011business_layer%sCourses.java
+%\011business_layer%sRecords.java
+%\011business_layer%sGrants.java
+%\011data_layer%sKudos.java
+%\011business_layer%sPubs.java
+%\011business_layer%sKudo.java
+%\011data_layer%sService.java
+%\011data_layer%sDatabase.java
+%\011presentation_layer%sMainGUI.java
+%\011data_layer%sServices.java
+%\011data_layer%sPub.java
+%\011business_layer%sGrant.java
+%\011business_layer%sScholarships.java
+%\011presentation_layer%sLoginGUI.java
+%\011data_layer%sUsers.java
+%\011presentation_layer%sFacultyTableModel.java
+%\011presentation_layer%sMainAction.java
+%\011data_layer%sGrants.java
+%\011business_layer%sServices.java
+%\011business_layer%sService.java
+%\011data_layer%sUser.java
+%\011data_layer%sRecords.java
+%\011presentation_layer%sLoginListener.java
+%\011data_layer%sPubs.java
+%\011business_layer%sCourse.java
+%\011data_layer%sCourses.java
+%\011presentation_layer%sDetailPage.java
+%\011data_layer%sRecord.java
+%\011data_layer%sKudo.java
+%\011data_layer%sCourse.java
+%\011business_layer%sKudos.java
+!1067;f
+%	business_layer%sUsers.java
+%	data_layer%sGrant.java
+%	business_layer%sRecord.java
+%	business_layer%sUser.java
+%	business_layer%sPub.java
+%	business_layer%sCourses.java
+%	business_layer%sRecords.java
+%	business_layer%sGrants.java
+%	data_layer%sKudos.java
+%	business_layer%sPubs.java
+%	business_layer%sKudo.java
+%	data_layer%sService.java
+%	data_layer%sDatabase.java
+%	presentation_layer%sMainGUI.java
+%	data_layer%sServices.java
+%	data_layer%sPub.java
+%	business_layer%sGrant.java
+%	business_layer%sScholarships.java
+%	presentation_layer%sLoginGUI.java
+%	data_layer%sUsers.java
+%	presentation_layer%sFacultyTableModel.java
+%	presentation_layer%sMainAction.java
+%	data_layer%sGrants.java
+%	business_layer%sServices.java
+%	business_layer%sService.java
+%	data_layer%sUser.java
+%	data_layer%sRecords.java
+%	presentation_layer%sLoginListener.java
+%	data_layer%sPubs.java
+%	business_layer%sCourse.java
+%	data_layer%sCourses.java
+%	presentation_layer%sDetailPage.java
+%	data_layer%sRecord.java
+%	data_layer%sKudo.java
+%	data_layer%sCourse.java
+%	business_layer%sKudos.java

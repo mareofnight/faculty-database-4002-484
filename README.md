@@ -1,6 +1,6 @@
 Faculty Database
 ================
-Program written by Kim Desorcie, Jessica Dopkant and Pawel Baltaziuk. 2012-11-10
+Program written by Kim Desorcie (kim@kimdesorcie.com), Jessica Dopkant (coolgrl989@gmail.com) and Pawel Baltaziuk. 2012-11-10
 
 This program was a project for the RIT class 4002-484 Database Client/Server Connectivity. The task was to design and develop a database of university faculty and classes, and an accompanying application to view and update them.
 

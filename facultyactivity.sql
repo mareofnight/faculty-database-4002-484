@@ -190,7 +190,7 @@ CREATE TABLE `users` (
 
 LOCK TABLES `users` WRITE;
 /*!40000 ALTER TABLE `users` DISABLE KEYS */;
-INSERT INTO `users` VALUES (1,'Steve','Zilora','sjz@it.rit.edu','5f47859188a602594556580532e814a3',1),(2,'Dan','Bogaard','dsb@it.rit.edu','f4f6172eb26581952a70d7199bfd2ddb',3),(3,'Karen','Griffith','kdgvks@rit.edu','084387d79f1cae0cecd9a8eaccbd23b3',2);
+INSERT INTO `users` VALUES (1,'Steve','Zilora','sjz@it.rit.edu','password',1),(2,'Dan','Bogaard','dsb@it.rit.edu','password',3),(3,'Karen','Griffith','kdgvks@rit.edu','password',2);
 /*!40000 ALTER TABLE `users` ENABLE KEYS */;
 UNLOCK TABLES;
 /*!40103 SET TIME_ZONE=@OLD_TIME_ZONE */;

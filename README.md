@@ -1,10 +1,23 @@
-See documentation/index.html?overview-summary.html for documentation.
+Faculty Database
+================
+Program written by Kim Desorcie, Jessica Dopkant and Pawel Baltaziuk. 2012-11-10
 
-Program written by Kim Desorcie, Jessica Dopkant and Pawel Baltaziuk.
+This program was a project for the RIT class 4002-484 Database Client/Server Connectivity. The task was to design and develop a database of university faculty and classes, and an accompanying application to view and update them.
 
-2012-11-10
+Detailed documentation
+----------------------
+UML diagrams, and HTML-format documentation based on the method comments, are in the /documentation folder.
 
+/documentation/UserDocs.docx is a word document with explanations and screenshots of the program's basic functions, from the user's perspective.
 
-How to run: (list is in progress)
+Installation and use
+--------------------
 
-* set classpath for the JDBC driver (it is the .jar in the drivers folder) http://dev.mysql.com/doc/connector-j/en/connector-j-installing-classpath.html
+1. Make sure you have Java and MySQL installed
+2. Download the project
+3. Open MySQL, and run facultyactivity.sql to create the database and insert dummy data.
+4. Set the classpath for the JDBC database driver. The driver location is /drivers/mysql-connector-java-5.1.31-bin.jar. More info on classpaths: http://dev.mysql.com/doc/connector-j/en/connector-j-installing-classpath.html
+5. Use Java to run the file LoginGUI.class
+
+### Login credentials
+Valid user IDs are 1, 2, and 3. The passwords are all "password". These users can be modified through the program.

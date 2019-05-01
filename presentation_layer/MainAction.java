@@ -204,7 +204,7 @@ public class MainAction implements ActionListener{
 		}
 		else if(source == about){
 			// an option pane giving details about the program
-			JOptionPane.showMessageDialog(null, "Coded by Kim, Jessica Dopkant & Pawel \nFor Database Client Server Implementation", "About the Program", JOptionPane.INFORMATION_MESSAGE, null);
+			JOptionPane.showMessageDialog(null, "Coded by David, Jessica Dopkant & Pawel \nFor Database Client Server Implementation", "About the Program", JOptionPane.INFORMATION_MESSAGE, null);
 		}
 		else if(source == howTo){
 			// an option pane explaining how to do specific things in the program

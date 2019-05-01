@@ -4,7 +4,7 @@ import javax.swing.*;
 import java.awt.event.*;
 
 /*
-	@author Kim Desorcie
+	@author David Desorcie
 	@verion 8
 	GUI for logging in and starting the program
 */

@@ -3,7 +3,7 @@ import javax.swing.table.*;
 import java.util.Vector;
 
 /*
-	@author Kim Desorcie
+	@author David Desorcie
 	@version 11
 	Customized version of DefaultTableModel, used in the JTable
 */

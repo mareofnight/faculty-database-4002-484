@@ -5,7 +5,7 @@ import java.util.ArrayList;
 import java.util.logging.*;
 
 /**
- * @author Kim, Pawel
+ * @author David, Pawel
  * @version 7
  * Database access class
  * Methods are all private or default, so that they can only be used by other data layer classes.

@@ -2,7 +2,7 @@ package business_layer;
 import java.util.ArrayList;
 
 /**
- * @author	Kim Desorcie
+ * @author David Desorcie
  * @version 8
  * Business layer Kudos record
  * Handles viewing, editing and inserting records, and enforces user permissions.

@@ -3,7 +3,7 @@ import data_layer.*;
 import java.util.ArrayList;
 
 /**
- * @author Kim
+ * @author David Desorcie
  * @version 8
  * Manages a list of business layer Courses records
 */

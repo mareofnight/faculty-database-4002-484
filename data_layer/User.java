@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.sql.*;
 
 /**
- * @author Kim
+ * @author David Desorcie
  * @version 10
  * Data layer Users record
 */

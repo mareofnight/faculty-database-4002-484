@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.sql.*;
 
 /**
- * @author Kim Desorcie
+ * @author David Desorcie
  * @version 8
  * Superclass for record list classes
 */

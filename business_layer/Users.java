@@ -2,7 +2,7 @@ package business_layer;
 import java.util.ArrayList;
 
 /**
- * @author Kim Desorcie
+ * @author David Desorcie
  * @version 11
  * Manage a list of business layer Users records
 */

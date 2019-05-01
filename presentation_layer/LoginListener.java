@@ -6,7 +6,7 @@ import java.awt.event.ActionListener;
 import java.awt.event.ActionEvent;
 import java.util.ArrayList;
 /*
-	@author Kim Desorcie
+	@author David Desorcie
 	@version 8
 	Loggin window action listener - logs in the user and starts the main GUI
 */

@@ -2,7 +2,7 @@ package business_layer;
 import java.util.ArrayList;
 
 /**
- * @author	Kim Desorcie
+ * @author David Desorcie
  * @version .04
  * Business layer Users recor
  * Handles viewing, editing and inserting records, and enforces user permissions.

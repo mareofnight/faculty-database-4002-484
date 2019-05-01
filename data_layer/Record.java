@@ -5,7 +5,7 @@ import java.util.Arrays;
 import java.sql.*;
 
 /**
- * @author Kim
+ * @author David Desorcie
  * @version 10
  * Superclass for data layer record objects
 */
